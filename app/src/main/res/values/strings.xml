@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tetris App</string>
+    <string name="score">점수: %1$d</string>
+    <string name="ready">준비</string>
+    <string name="playing">플레이 중</string>
+    <string name="game_over">게임 오버! 재시작을 눌러주세요.</string>
+</resources>
